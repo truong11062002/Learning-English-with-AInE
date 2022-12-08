@@ -38,6 +38,7 @@
 <a name="congtrinh"></a>
 [Detail documents in developing and building AInE](https://github.com/truong11062002/Learning-English-with-AInE/blob/main/M%C3%B4%20t%E1%BA%A3%20quy%20tr%C3%ACnh%20v%C3%A0%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BA%B7c%20t%E1%BA%A3%20y%C3%AAu%20c%E1%BA%A7u.pdf)
 
+[Source code](https://gitlab.com/over9-uit-together/cnpm/-/tree/main/)
 ## AINE IMPLEMENTATION
 <a name="implement"></a>
 ### DEMO VIDEO
