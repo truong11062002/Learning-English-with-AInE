@@ -40,7 +40,6 @@
 
 [Source code](https://gitlab.com/over9-uit-together/cnpm/-/tree/main/)
 
-[Video báo cáo](https://youtu.be/mxUzHz1Pia8)
 ## AINE IMPLEMENTATION
 <a name="implement"></a>
 ### DEMO VIDEO
