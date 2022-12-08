@@ -15,7 +15,7 @@
 ## Contents
 * [ Project introduction](#gioithieumonhoc)
 * [ Project details](#congtrinh)
-* [ Project details](#implement)
+* [ AInE Implementation](#implement)
 * [ Mentor](#giangvien)
 * [ Members](#thanhvien)
 
@@ -38,7 +38,7 @@
 <a name="congtrinh"></a>
 [Detail documents in developing and building AInE](https://github.com/truong11062002/Learning-English-with-AInE/blob/main/M%C3%B4%20t%E1%BA%A3%20quy%20tr%C3%ACnh%20v%C3%A0%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BA%B7c%20t%E1%BA%A3%20y%C3%AAu%20c%E1%BA%A7u.pdf)
 
-## IMPLEMENT AINE
+## AINE IMPLEMENTATION
 <a name="implement"></a>
 ### DEMO VIDEO
 https://user-images.githubusercontent.com/74360292/206404483-dbc3cec8-08d9-4d9c-a5c0-d9ed7c209b3e.mp4
